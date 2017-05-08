@@ -1,4 +1,4 @@
-# array-fill-with-number [![Build Status](https://travis-ci.org/ragingwind/array-fill-with-number.svg?branch=master)](https://travis-ci.org/ragingwind/array-fill-with-number)
+# array-with-number [![Build Status](https://travis-ci.org/ragingwind/array-fill-with-number.svg?branch=master)](https://travis-ci.org/ragingwind/array-fill-with-number)
 
 > Array fill with number
 
@@ -6,13 +6,13 @@
 ## Install
 
 ```sh
-$ yarn add array-fill-with-number
+$ yarn add array-with-number
 ```
 
 or
 
 ```sh
-$ npm install --save array-fill-with-number
+$ npm install --save array-with-number
 ```
 
 ## Usage
