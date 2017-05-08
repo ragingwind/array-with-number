@@ -1,0 +1,7 @@
+import test from 'ava';
+import arrayWithNumber from '.';
+
+test(t => {
+	t.deepEqual(arrayWithNumber(10), [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]);
+	t.deepEqual(arrayWithNumber(10, 1), [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
+});

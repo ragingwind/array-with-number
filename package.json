@@ -1,0 +1,29 @@
+{
+  "name": "array-fill-with-number",
+  "version": "0.0.0",
+  "description": "Array fill with number",
+  "license": "MIT",
+  "repository": "ragingwind/array-fill-with-number",
+  "author": {
+    "name": "ragingwind",
+    "email": "ragingwind@gmail.com",
+    "url": "ragingwind.me"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.0"
+  }
+}
